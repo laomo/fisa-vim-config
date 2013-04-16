@@ -73,6 +73,9 @@ Bundle 'airblade/vim-gitgutter'
 
 " Bundles from vim-scripts repos
 
+" taglist
+Bundle 'taglist.vim'
+
 " Autocompletion
 Bundle 'AutoComplPop'
 " Python code checker
