@@ -6,6 +6,7 @@ my vim configuration (lot of python, autocompletion, fuzzy finder, debugger, ...
 requirement
 ===========
 sudo apt-get install ctags
+
 sudo pip install vim-debug
 
 What is this?
